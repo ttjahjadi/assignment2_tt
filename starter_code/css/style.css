@@ -73,16 +73,16 @@ body {
 }
 
 h1{
-  /* font-size: 35px; */
-  font-size: 24px;
+  font-size: 35px;
+  /* font-size: 24px; */
   font-weight: 800;
   text-align: center;
 }
 
 h2{
   color: #fbfcfc;
-  font-size: 24px;
-  font-weight: 600;
+  font-size: 28px;
+  font-weight: 700;
   letter-spacing: 0.05em;
 }
 
@@ -145,8 +145,8 @@ section{
 
 .sub-text a button {
   text-decoration: none;
-  font-weight: 800;
-  font-size: 14px;
+  font-weight: 600;
+  font-size: 18px;
   color: #2a4557;
   border: 2px solid #f7e330;
 }
@@ -174,12 +174,12 @@ section{
   color: #033048;
   margin-bottom: 15px;
   font-weight: 600;
-  font-size: 20px;
+  font-size: 28px;
 }
 
 .benefits p, li{
   color: #606161;
-  font-size: 13px;
+  font-size: 16px;
   line-height: 32px;
   font-weight: 300;
 }
@@ -223,8 +223,8 @@ blockquote{
   background: #2b4658;
   color: #eeeeee;
   text-align: center;
-  font-weight: 800;
-  font-size: 12px;
+  font-weight: 600;
+  font-size: 18px;
   border-radius: 5px;
 }
 

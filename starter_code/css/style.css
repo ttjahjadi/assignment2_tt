@@ -208,6 +208,11 @@ blockquote{
   text-align: center;
 }
 
+.quote span {
+  font-weight: 600;
+  font-style: normal;
+}
+
 .sign-up{
   align-items: center;
   background: #f7e330;
